@@ -1,7 +1,6 @@
 # Site settings
 title: moriyasu0410.github.io
-email: moriyasu0410@gmail.com
-description: moriyasu0410.github.ioです。
+description: moriyasu0410.github.io
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "moriyasu0410.github.io" # the base hostname & protocol for your site
 twitter_username: moriyasu0410

@@ -16,7 +16,7 @@ permalink: /about/
 	* etc...
 
 * Product
-	* [Moriyasu Lunch Map](http://moriyasu.me 'Moriyasu Lunch Map')
+	* [Moriyasu LunchMap](http://moriyasu.me 'Moriyasu LunchMap')
 
 * Favorite
 	* Mac
