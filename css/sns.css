@@ -1,0 +1,7 @@
+.sns .twitter, .sns .facebook {
+  display: inline-block;
+  vertical-align: top;
+}
+.sns .facebook {
+  margin: 4px;
+}
