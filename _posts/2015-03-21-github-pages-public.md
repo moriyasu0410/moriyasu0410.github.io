@@ -5,7 +5,7 @@ date:   2015-03-21 22:00:00
 categories: github
 ---
 * 前提
-	* [jekyllのインストール](/jekyll/2015/03/22/jekyll-install.html 'jekyllのインストール')が終わっていること
+	* [jekyllのインストール](/jekyll/2015/03/21/jekyll-install.html 'jekyllのインストール')が終わっていること
 
 * GitHubの「New Repository」からリポジトリを作成する。
 	* Repository name: moriyasu0410.github.io
