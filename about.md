@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 # moriyasu0410
+![moriyasu0410](https://avatars2.githubusercontent.com/u/1825635?v=3&s=230 'moriyasu0410')
 
 * Software Engineer
 
