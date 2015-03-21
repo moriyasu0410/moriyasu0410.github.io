@@ -4,8 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# moriyasu0410
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* Software Engineer
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* Language
+	* Java
+	* Scala
+	* PHP
+	* Ruby
+	* etc...
+
+* Product
+	* [Moriyasu Lunch Map](http://moriyasu.me 'Moriyasu Lunch Map')
+
+* Favorite
+	* Mac
+	* iPhone
+	* PlayStation
+	* Xperia
+
+* Hobby
+	* Game
+		* METAL GEAR SOLID
+		* BIO HAZARD
+		* Asassin's CREED
+	* Futsal
+	* 玉子焼き作り
+
+
