@@ -8,6 +8,9 @@ categories: jekyll
 	* OS X 10.9.5
 	* Ruby 2.1.0
 
+* 公式サイト
+	* [jekyll](http://jekyllrb.com)
+
 * jekyllをインストールする
 {% highlight sh %}
 $ gem install jekyll
